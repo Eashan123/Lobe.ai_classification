@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtualenv
+envr/*
+lobe_model.7z
+
+#Git
+.git/*
+
+
+#model
+lobe_image_classification/saved_model.pb
+
